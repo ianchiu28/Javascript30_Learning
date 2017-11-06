@@ -1,2 +1,6 @@
 # Javascript30_Learning
-It's a lesson for javascript by Javascript30
+Javascript !
+
+## 學習資源
+https://github.com/wesbos/JavaScript30
+
